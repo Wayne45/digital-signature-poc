@@ -2,3 +2,5 @@
 /.venv
 *.iml
 *.pem
+sign.sha256
+sign.sha256.base64
